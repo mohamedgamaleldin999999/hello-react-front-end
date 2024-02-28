@@ -1,0 +1,21 @@
+/* Style the h1 heading */
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 48px;
+  font-weight: bold;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #54c5f9;
+  text-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.greeting-container {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 50px;
+  text-align: center;
+  background-image: linear-gradient(to bottom, #fff, #f2f2f2);
+}
